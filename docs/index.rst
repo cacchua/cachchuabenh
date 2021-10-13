@@ -30,6 +30,16 @@ NGƯỜI LÚC NÓNG LÚC LẠNH - CÁCH CHỮA BỆNHH
    :caption: Bàn tay bàn chân nóng
 
    ban-tay-ban-chan-nong
+   
+.. _benhdongkinh:
+
+.. toctree::
+   :maxdepth: 2
+   :glob:
+   :caption: Bệnh động kinh, nguyên nhân, cách chữa bằng thảo dược
+
+  benh-dong-kinh
+   
 
 
 
