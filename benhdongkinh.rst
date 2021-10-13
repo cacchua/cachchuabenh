@@ -43,7 +43,7 @@ Thường khi bị bệnh sẽ bị sốt cao, cứng gáy, biểu hiện sau n�
 + Do bị thủy độc hay đàm nhớt mà sinh bệnh
 Thường biểu hiện kèm theo khó thỏ, hoa mắt, chóng mặt.
 
-.. image:: /img/cach-chua-benh dong-kinh.jpg
+.. image:: /img/cach-chua-benh-dong-kinh.jpg
    :alt: "nguyên nhân bệnh động kinh theo đông y"
    :align: center
 
@@ -102,7 +102,7 @@ Thuốc chữa bệnh động kinh giá bao nhiêu
 
 **Thuốc là thảo dược dùng cho 01 tháng thì có giá 2,5 triệu đồng/ tháng. **
 
-.. image:: /img/thuoc chua benh dong kinh gia bao nhieu.jpg
+.. image:: /img/thuoc-chua-benh-dong-kinh-gia-bao-nhieu.jpg
    :alt: "Thuốc chữa bệnh động kinh giá bao nhiêu"
    :align: center
 
