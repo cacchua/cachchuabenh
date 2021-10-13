@@ -43,7 +43,7 @@ Người lúc nóng lúc lạnh kèm theo triệu chứng hơi sợ lạnh, các
 ***************************************************************************************
 Thường có các triệu chứng:
 
-+ `người lúc nóng lúc lạnh <https://sites.google.com/view/caycohoaqua/cach-chua-benh/nguoi-luc-nong-luc-lanh>`_
++ `người lúc nóng lúc lạnh <https://www.leweb3.com/nguoi-luc-nong-luc-lanh/>`_
 
 + kèm theo các biểu hiện như sợ lạnh, 
 
