@@ -2,16 +2,18 @@
 CÁCH CHỮA BỆNHH
 ===============
 
-**************
+
+***********************
 BỆNH ĐỘNG KINH
-**************
+***********************
+.. _benhdongkinh:
 
 .. toctree::
    :maxdepth: 2
    :glob:
-   :caption: Bệnh động kinh, nguyên nhân, cách chữa bằng thảo dược
+   :caption: Bệnh động kinh
 
-  benh-dong-kinh
+   benh-dong-kinh
 
 
 ***********************
@@ -46,7 +48,6 @@ NGƯỜI LÚC NÓNG LÚC LẠNH
 
    ban-tay-ban-chan-nong
    
-
 
 
 .. note:: Liên hệ Thảo mộc HHT 
